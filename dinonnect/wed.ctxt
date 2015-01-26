@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=wed()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ wed.\r\n\ \r\n
+comment1.params=masuk
+comment1.target=void\ tambah(int)
+comment2.params=
+comment2.target=void\ kurang()
+comment3.params=
+comment3.target=void\ nambah()
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ create()
+comment6.params=
+comment6.target=void\ GameOver()
+comment7.params=
+comment7.target=void\ Skor_akhir()
+numComments=8
